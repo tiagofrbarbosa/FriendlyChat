@@ -12,12 +12,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_27f1eeb9a9976b494992322682980075c4a5aab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="7a343e17f154f513a09c12946fae0f172be079ec">
         <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.0_00f693571a8e5378d0616ba4ebd87337cae245bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6530d80bd3d419ad88e0fcfbccda4dccb206f29c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,6 +84,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4211809f735b311f9e482f421ae05ecf4a548e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -102,12 +129,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_998c73563856a7e45aa6eb0dce171b8f823fa629.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
         <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_e16fe738c13c219c4b1747f1f275742968ee1f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_586a87ca8150eb67745d03a7504346b4d7df1990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.6.0_bb80ee82645dc7c989f7aa07f793fc7d0fb52401.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,12 +174,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_d7b54fa7c04132000fe2b03a07bb612522e0ea77.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tfbarbosa/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.1"
         sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
         <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/glide-3.6.1_ee0f4398121e4dd07977e20d4b0293cc8f7d20c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.0_e41db53c0622f69a8991dd45028f2b8c0936cb3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tfbarbosa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7a461775b7711ac8c026013f30779a026d507e1f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,6 +273,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.0_35e64770f23d3493b58307b3ad7a18bc73d37beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tfbarbosa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -219,6 +309,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.0_da7c928f0225dce5f4b1344a0ac603e4b33f1921.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
@@ -234,6 +333,15 @@
         revision="24.0.1"
         sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
         <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.0_c78b5eff6499865a9a5e8f5dad7be63a272806f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.0_fbc1ef7b7bc89c7ad200f9d345b18a86c59359a8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -261,78 +369,6 @@
         revision="24.0.1"
         sha1="d39f676be8400123523882d189a1d84040d34339">
         <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.0_d97b36a9fedb01514aef6b50caa27637000d9155.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
-        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_27f1eeb9a9976b494992322682980075c4a5aab3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6530d80bd3d419ad88e0fcfbccda4dccb206f29c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4211809f735b311f9e482f421ae05ecf4a548e37.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_998c73563856a7e45aa6eb0dce171b8f823fa629.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_586a87ca8150eb67745d03a7504346b4d7df1990.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
-        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_d7b54fa7c04132000fe2b03a07bb612522e0ea77.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tfbarbosa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7a461775b7711ac8c026013f30779a026d507e1f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.1"
-        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
-        <dex dex="/home/tfbarbosa/AndroidStudioProjects/Friendlychat/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.0_da7c928f0225dce5f4b1344a0ac603e4b33f1921.jar" />
     </item>
     <item
         is-multidex="false"
